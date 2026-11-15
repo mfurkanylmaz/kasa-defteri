@@ -36,7 +36,7 @@ Net sonuç    : 330.00 TL (KÂR)
 
 | Menü ve işlem ekleme | Gün sonu raporu | Hatalı girdi uyarısı |
 |---|---|---|
-| ![Menü](ekran_goruntuleri/menu.png) | ![Rapor](ekran_goruntuleri/rapor.png) | ![Hata](ekran_goruntuleri/hatali_girdi.png) |
+| ![Menü](menu.png) | ![Rapor](rapor.png) | ![Hata](hatali_girdi.png) |
 
 ## Akış şeması
 
